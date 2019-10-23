@@ -3,7 +3,7 @@
 I mostly read about technology. I'll share a list of completed and in progress. I plan to add commentary and target audience information.
 
 **2019 (In Progress)**
-TBD
+1. Never Split the Difference: Negotiating As If Your Life Depended On It
 
 **2018 (Completed)**
 1. Bad Blood: Secrets and Lies in a Silicon Valley Startup
